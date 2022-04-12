@@ -23,3 +23,19 @@ Assim o projeto tem os seguintes arquivos base:
  - edit-alunod.php
  - visu.php
 
+
+Assim, as funcionalidades do sistema são as propostas pelo desafio:
+
+*Listar*
+*Editar*
+*Criar*
+*Deletar*
+*Visualizar*
+
+Para a navegação, view dashboard tem uma tabela as informações dos alunos, detalhes maiores, com a visualização da foto de perfil e as ações básicas de edição e deletar. Logo acima, tem um botão com +aluno para adicionar mais um aluno.
+
+
+Concluindo, as aplicações pedidas foram alcançadas como o pedido.
+
+
+Autor: Gabriel Campanelli 
