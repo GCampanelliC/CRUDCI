@@ -9,11 +9,15 @@ Assim, pelo modelo MVC as views são basicamente compostas pelo Dashboard,Formul
 Para facilitar na orimização, e por ser simples o sistema, o Comtroller e a Model são somente uma.
 
 Assim o projeto tem os seguintes arquivos base:
-  Controller:
+  
+#Controller:
  - Dashboard.php
-  Model:
+
+#Model:
  - aluno_Model.php
-  Views:
+
+#Views:
+
  - dashboard.php
  - form-alunos.php
  - edit-alunod.php
